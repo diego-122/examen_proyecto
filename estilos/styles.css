@@ -1,0 +1,13 @@
+h1{
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+th{
+    background-color: red;
+}
+td{
+    background-color: rgb(253, 94, 94);
+}
+table{
+    background-color: seashell;
+}
